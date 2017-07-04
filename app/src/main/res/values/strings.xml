@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Reciclapp</string>
+    <string name="perm_camera">Se necesitan permisos para la cámara</string>
+    
+    //drawer
+    <string name="make_a_delivery">Hacer una entrega</string>
+    <string name="collection_points">Puntos de acopio</string>
+    <string name="my_delivery">Mis entregas</string>
+    <string name="my_benefits">Mis beneficios</string>
+    <string name="my_account">Mi perfil</string>
+
+    //login
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_my_password">Olvidé mi contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrar</string>
+    
+    //register
+    <string name="first_name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="dni">DNI</string>
+    <string name="birth_date">Fecha de nacimiento</string>
+    <string name="email">Correo electrónico</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="repeat_password">Repetir contraseña</string>
+    <string name="district">Distrito</string>
+    <string name="direction">Dirección</string>
+
+    //profile
+
+
+    //drawer strings
+    <string name="drawer_open">Se abrió el menú</string>
+    <string name="drawer_close">Se cerró el menú</string>
+
+    //received benefit strings
+    <string name="received_benefit_description_1">1. Junta tus desechos separado por tipo: plástico, vidrio y papel.</string>
+    <string name="received_benefit_description_2">2. Llévalos a uno de nuestros puntos de acopio.</string>
+    <string name="received_benefit_description_3">3. Escanea el código QR que te mostrarán.</string>
+
+    //my history
+    <string name="hello">¡Hola</string>
+    <string name="good_day">,\nbuen día!</string>
+    <string name="hello_user">¡Hola Usuario,\nbuen día!</string>
+    <string name="to_date_you_have_x_points">A la fecha tienes acumulados 860 puntos</string>
+    <string name="to_date_you_have">A la fecha tienes acumulados</string>
+    <string name="points">puntos</string>
+    <string name="ready_to_recycle">¿Listo para realizar\nuna entrega?</string>
+    <string name="my_deliveries">Mis entregas</string>
+    <string name="benefits">Beneficios</string>
+    <string name="find_us">Ubícanos</string>
+
+    //delivery
+    <string name="delivery_history">Historial de entregas</string>
+    <string name="no_deliveries">No hay entregas</string>
+
+    //benefits
+    <string name="no_benefits">No hay beneficios</string>
+    <string name="get_benefits">Canjear Beneficios</string>
+
+    //delivery description
+    <string name="delivery_detail">Detalle de entrega</string>
+    <string name="delivery_description">Datos de entrega</string>
+    <string name="date">Fecha</string>
+    <string name="delivery_supervisor">Supervisor de entrega</string>
+    <string name="collection_point">Punto de acopio</string>
+    <string name="total_points">Total acumulado</string>
+
+    //error strings
+    <string name="there_was_an_error_try_it_later">Hubo un error, por favor intente más tarde</string>
+    <string name="no_server_connection_try_it_later">No hubo conexión al servidor, por favor intente más tarde</string>
+
+
+    //google map keys
+    <string name="google_map_key">AIzaSyB1D51Wa_7U2zCXH4VsfMZiXfhuP8LX7uM</string>
+    
+</resources>

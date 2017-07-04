@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_recycle"
+        android:icon="@drawable/realizar_entrega"
+        android:title="@string/make_a_delivery"/>
+    <item
+        android:id="@+id/action_my_orders"
+        android:icon="@drawable/mis_entregas"
+        android:title="@string/collection_points"/>
+
+    <item
+        android:id="@+id/action_delivery"
+        android:icon="@drawable/mis_entregas_2"
+        android:title="@string/my_delivery"/>
+    <item
+        android:id="@+id/action_benefits"
+        android:icon="@drawable/mis_beneficio"
+        android:title="@string/my_benefits"/>
+    <item
+        android:id="@+id/action_account"
+        android:icon="@drawable/perfil"
+        android:title="@string/my_account"/>
+</menu>
